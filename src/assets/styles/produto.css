@@ -1,0 +1,15 @@
+.recomendados-out {
+    width: 80%;
+    margin: auto;
+}
+
+.recomendados {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.recomendado-small {
+    width: 80%;
+    margin-left: 10%;
+}
